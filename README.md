@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @danielmanthon
 - WEBFLOW DEVELOPER  / FRONT-END DEVELOPER 
-- 💞️ I’m looking to collaborate on WEBFLOW  / Front-End Development.
 - 📫 How to reach me https://www.linkedin.com/in/daniyal-mehmood-06220a180?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BiXvOK61qR5%2BSC8dFcEfYJg%3D%3D
 - danielmanthon01@gmail.com
 <!---
